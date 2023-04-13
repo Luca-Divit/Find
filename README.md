@@ -5,7 +5,7 @@ This app was developed as part of [Hack For Peace](https://hackforpeace.net/).
 We used Rails v7.0.4 and Ruby v3.1.2.
 
 ```
-git clone git@github.com:adrianHards/hack-for-peace.git
+git clone git@github.com:Luca-Divit/Find.git
 cd hack-for-eace
 bundle
 yarn install
