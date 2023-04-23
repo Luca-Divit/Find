@@ -13,3 +13,5 @@ bin/rails db:create
 bin/dev
 ```
 Open `localhost:3000` in your favourite browser
+
+<p align="center"><a href="https://hits.sh/github.com/Luca-Divit/Find/"><img alt="Hits" src="https://hits.sh/github.com/Luca-Divit/Find.svg?style=plastic&label=Visitors&extraCount=143&color=007ec6"/></a></p>
