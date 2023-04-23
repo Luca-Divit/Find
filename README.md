@@ -1,9 +1,9 @@
+<p align="center"><img src="https://img.shields.io/badge/Rails-7.0.4-ff0000?style=plastic&logo=rubyonrails" /> <img src="https://img.shields.io/badge/ruby-3.1.2-ff0000?style=plastic&logo=ruby" /></p>
+
 ## About
 This app was developed as part of [Hack For Peace](https://hackforpeace.net/).
 
 ## Installation
-We used Rails v7.0.4 and Ruby v3.1.2.
-
 ```
 git clone git@github.com:Luca-Divit/Find.git
 cd hack-for-eace
@@ -12,3 +12,4 @@ yarn install
 bin/rails db:create
 bin/dev
 ```
+Open `localhost:3000` in your favourite browser
